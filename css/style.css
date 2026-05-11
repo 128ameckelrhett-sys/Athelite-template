@@ -1,3 +1,39 @@
+.body{
+    background: #ffa007;
+    background: linear-gradient(149deg,rgba(255, 160, 7, 1) 0%, rgba(116, 0, 145, 1) 67%);
+}
+
 .nav{
-    background-color: #9400D3;
+    background:rgb(121 13 153);
+}
+
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.pt-serif-regular {
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.pt-serif-bold {
+  font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.pt-serif-regular-italic {
+  font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.pt-serif-bold-italic {
+  font-family: "PT Serif", serif;
+  font-weight: 700;
+  font-style: italic;
 }
