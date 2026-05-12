@@ -5,7 +5,7 @@ body {
 }
 
 .bg-body-tertiary {
-    --bs-bg-opacity: 1;
+    --bs-bg-opacity: 0.7;
     background-color: rgb(100 18 135 / 97%) !important;
 }
 
