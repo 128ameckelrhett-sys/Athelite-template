@@ -1,10 +1,12 @@
-.body{
+body {
     background: #ffa007;
     background: linear-gradient(149deg,rgba(255, 160, 7, 1) 0%, rgba(116, 0, 145, 1) 67%);
+    height: 100vh;
 }
 
-.nav{
-    background:rgb(121 13 153);
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: rgb(100 18 135 / 97%) !important;
 }
 
 .playfair-display {
