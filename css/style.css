@@ -1,11 +1,22 @@
 body {
-    background: #ffa007;
-    background: linear-gradient(149deg,rgba(255, 160, 7, 1) 0%, rgba(116, 0, 145, 1) 67%);
-    height: 100vh;
+  background: #ffa007;
+  background: linear-gradient(149deg,rgb(255, 180, 19) 33%, rgba(116, 0, 145, 1) 67%);
+  height: 100vh;
 }
 
 .lebron {
   position: absolute;
+  bottom: 0%;
+  left: 50%;
+  width: 38vw;
+}
+
+.three {
+  color: black;
+  bottom: 90%;
+  left: 50%;
+  width: 33vw;
+  font-size: 100px;
 }
 
 .bg-body-tertiary {
